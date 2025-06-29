@@ -1,3 +1,3 @@
  # Juspay Assignment
 
-Live at:
+Live at: https://scratch-editor-assignment.netlify.app/
